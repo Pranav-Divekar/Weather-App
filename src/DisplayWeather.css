@@ -1,0 +1,9 @@
+.InfoBox{
+    text-align: center;
+    align-items: center;
+}
+.InfoCard{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
